@@ -1,3 +1,10 @@
+# Please bear with me, the assignement will be completed and updated by Sunday 23rd evening, EAT.
+<br> <br><br><br><br><br><br><br><br><br>
+<br> <br><br><br><br><br><br><br><br><br>
+<br> <br><br><br><br><br><br><br><br><br>
+
+
+7
 # Deployment and DevOps for MERN Applications
 
 This assignment focuses on deploying a full MERN stack application to production, implementing CI/CD pipelines, and setting up monitoring for your application.
